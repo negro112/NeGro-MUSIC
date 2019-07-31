@@ -1,0 +1,6 @@
+owner=521608454897532928
+prefix=1
+game=BY NeGro | 1play
+stayinchannel=true
+songinstatus=false
+token=NjA1OTU5NjIzNjYwNDA0NzM2.XUEGBA.Kgj1GBiZXeeYxVn3Go8IaAFBnyM
